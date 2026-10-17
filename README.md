@@ -25,6 +25,11 @@ disrupt login
 
 Every release ships a `SHA256SUMS` file alongside the binaries.
 
+## Documentation
+
+The full user guide — commands, variables, workflow, recipes and operations —
+lives in [docs/](./docs/README.md).
+
 ## Update
 
 ```bash
